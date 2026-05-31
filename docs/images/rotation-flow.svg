@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="black"/></marker></defs>
+<text x="550" y="35" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">Rotation Flow</text>
+<rect x="45" y="160" width="160" height="70" rx="10" fill="white" stroke="black" stroke-width="2"/><text text-anchor="middle" font-family="Arial" font-size="13" x="125.0" y="187.0"><tspan x="125.0" dy="0">Find Expiring</tspan><tspan x="125.0" dy="16">Secret</tspan></text>
+<rect x="230" y="160" width="160" height="70" rx="10" fill="white" stroke="black" stroke-width="2"/><text text-anchor="middle" font-family="Arial" font-size="13" x="310.0" y="187.0"><tspan x="310.0" dy="0">Check Duplicate</tspan><tspan x="310.0" dy="16">Rotation</tspan></text>
+<rect x="415" y="160" width="160" height="70" rx="10" fill="white" stroke="black" stroke-width="2"/><text text-anchor="middle" font-family="Arial" font-size="13" x="495.0" y="187.0"><tspan x="495.0" dy="0">Create New</tspan><tspan x="495.0" dy="16">Credential</tspan></text>
+<rect x="600" y="160" width="160" height="70" rx="10" fill="white" stroke="black" stroke-width="2"/><text text-anchor="middle" font-family="Arial" font-size="13" x="680.0" y="187.0"><tspan x="680.0" dy="0">Store Secret</tspan><tspan x="680.0" dy="16">in Key Vault</tspan></text>
+<rect x="785" y="160" width="160" height="70" rx="10" fill="white" stroke="black" stroke-width="2"/><text text-anchor="middle" font-family="Arial" font-size="13" x="865.0" y="187.0"><tspan x="865.0" dy="0">Log Rotation</tspan><tspan x="865.0" dy="16">Event</tspan></text>
+<rect x="785" y="350" width="200" height="70" rx="10" fill="white" stroke="black" stroke-width="2"/><text text-anchor="middle" font-family="Arial" font-size="13" x="885.0" y="377.0"><tspan x="885.0" dy="0">Manual Step:</tspan><tspan x="885.0" dy="16">Update Application</tspan></text>
+<rect x="420" y="350" width="300" height="70" rx="10" fill="white" stroke="black" stroke-width="2"/><text text-anchor="middle" font-family="Arial" font-size="13" x="570.0" y="377.0"><tspan x="570.0" dy="0">Old secret is not deleted automatically</tspan></text>
+<line x1="205" y1="195" x2="230" y2="195" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="390" y1="195" x2="415" y2="195" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="575" y1="195" x2="600" y2="195" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="760" y1="195" x2="785" y2="195" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="885" y1="230" x2="885" y2="350" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="565" y1="230" x2="565" y2="350" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+</svg>

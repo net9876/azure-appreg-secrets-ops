@@ -1,0 +1,35 @@
+# Local environment / secrets
+.env
+.env.*
+*.local
+*.secret
+*.secrets
+secrets.*
+credentials.*
+creds.*
+*.pem
+*.key
+*.pfx
+*.p12
+
+# PowerShell local/runtime files
+*.log
+*.tmp
+*.bak
+*.clixml
+
+# Generated reports / output
+*.csv
+reports/
+output/
+.deploy/
+*.zip
+
+# Keep safe sample outputs
+!docs/sample-output/*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

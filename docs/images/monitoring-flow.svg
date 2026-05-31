@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="black"/></marker></defs>
+<text x="550" y="35" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">Monitoring Flow</text>
+<rect x="50" y="160" width="160" height="70" rx="10" fill="white" stroke="black" stroke-width="2"/><text text-anchor="middle" font-family="Arial" font-size="13" x="130.0" y="187.0"><tspan x="130.0" dy="0">Managed Identity</tspan><tspan x="130.0" dy="16">Login</tspan></text>
+<rect x="240" y="160" width="160" height="70" rx="10" fill="white" stroke="black" stroke-width="2"/><text text-anchor="middle" font-family="Arial" font-size="13" x="320.0" y="187.0"><tspan x="320.0" dy="0">Read App</tspan><tspan x="320.0" dy="16">Registrations</tspan></text>
+<rect x="430" y="160" width="160" height="70" rx="10" fill="white" stroke="black" stroke-width="2"/><text text-anchor="middle" font-family="Arial" font-size="13" x="510.0" y="187.0"><tspan x="510.0" dy="0">Classify</tspan><tspan x="510.0" dy="16">Secrets</tspan></text>
+<rect x="620" y="160" width="160" height="70" rx="10" fill="white" stroke="black" stroke-width="2"/><text text-anchor="middle" font-family="Arial" font-size="13" x="700.0" y="187.0"><tspan x="700.0" dy="0">Upload CSV</tspan><tspan x="700.0" dy="16">Report</tspan></text>
+<rect x="810" y="160" width="160" height="70" rx="10" fill="white" stroke="black" stroke-width="2"/><text text-anchor="middle" font-family="Arial" font-size="13" x="890.0" y="187.0"><tspan x="890.0" dy="0">Send Risky</tspan><tspan x="890.0" dy="16">Logs</tspan></text>
+<rect x="810" y="350" width="160" height="70" rx="10" fill="white" stroke="black" stroke-width="2"/><text text-anchor="middle" font-family="Arial" font-size="13" x="890.0" y="377.0"><tspan x="890.0" dy="0">Alert</tspan><tspan x="890.0" dy="16">Admins</tspan></text>
+<rect x="400" y="350" width="240" height="70" rx="10" fill="white" stroke="black" stroke-width="2"/><text text-anchor="middle" font-family="Arial" font-size="13" x="520.0" y="377.0"><tspan x="520.0" dy="0">Expired / ExpiringSoon</tspan><tspan x="520.0" dy="16">Good / TooLongExpiration</tspan></text>
+<line x1="210" y1="195" x2="240" y2="195" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="400" y1="195" x2="430" y2="195" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="590" y1="195" x2="620" y2="195" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="780" y1="195" x2="810" y2="195" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="890" y1="230" x2="890" y2="350" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="510" y1="230" x2="510" y2="350" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+</svg>
